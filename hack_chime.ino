@@ -12,10 +12,10 @@ volatile unsigned long cycles = 0;
 
 unsigned long ticks = 0;
 unsigned long previousCycles = 0;
+unsigned long beeps = 0;
 boolean beeping = false;
 boolean played = false;
 boolean notified = false;
-byte beeps = 0;
   
 void setup() {
   if (DEBUG) {
