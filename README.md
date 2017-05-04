@@ -11,7 +11,7 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 
 * 1x Arduino Nano
 * 1x DFPlayer Mini module with micro SD card
-* 1x AMS1117 3,3 V voltage regulator module
+* 1x AMS1117 3.3 V voltage regulator module
 * 4x BC337-16 or similar NPN transistor
 * 1x 1 kΩ resistor
 * 4x 2.7 kΩ resistor
