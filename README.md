@@ -5,7 +5,7 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 
 ## Circuit
 
-![Hack Chime circuit](https://github.com/mtgrosser/hack_chime/raw/master/schematic.png)
+![Hack Chime circuit](https://github.com/mtgrosser/hack_chime/raw/master/circuit.png)
 
 ## BOM
 
@@ -22,5 +22,11 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 * 1x speaker
 * 1x ATX speaker cable
 
+## PCB
+
+![Hack Chime PCB](https://github.com/mtgrosser/hack_chime/raw/master/pcb.png)
+
 ## Software
+
+Work in progress...
 
