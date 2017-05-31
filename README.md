@@ -26,6 +26,10 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 
 ![Hack Chime PCB](https://github.com/mtgrosser/hack_chime/raw/master/pcb.png)
 
+## Device in action
+
+![Hack Chime Device](https://github.com/mtgrosser/hack_chime/raw/master/device.jpg)
+
 ## Software
 
 Work in progress...
