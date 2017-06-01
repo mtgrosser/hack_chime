@@ -20,7 +20,7 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 * 1x 2-pin male header
 * 1x 4-pin male header
 * 1x speaker
-* 1x ATX speaker cable
+* 1x ATX speaker cable (you can use a CD-ROM mainboard audio cable instead)
 
 ## PCB
 
