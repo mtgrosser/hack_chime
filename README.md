@@ -55,7 +55,7 @@ The output volume can be reduced using the R7 trimmer.
 ## Software
 
 Depending on how much time the mainboard usually takes to complete its power-on self test (POST),
-the variables const POST_WAIT_TIME and POST_TIMEOUT can be tweaked to catch the beeps.
+the variables `POST_WAIT_TIME` and `POST_TIMEOUT` can be tweaked to catch the beeps.
 
 ## License
 
