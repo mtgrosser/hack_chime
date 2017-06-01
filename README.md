@@ -1,8 +1,8 @@
 # Hack Chime
 ## Hackintosh startup chime with Arduino
 
-Hack Chime is an Arduino circuit which will detect the BIOS POST beep from your Hackintosh
-and play the Mac boot chime, or an alert sound in case of POST errors.
+Hack Chime is an Arduino circuit which can detect the BIOS POST beep from your Hackintosh
+and will play the Mac boot chime, or an alert sound in case of POST errors.
 
 BIOS beeps encountered during normal operation (for example on the Linux console) can be
 replaced with a custom sound like the Apple Boink or Funk sounds.
