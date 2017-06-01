@@ -1,4 +1,4 @@
-// hack_chime 1.0
+// Hack Chime 1.0
 //
 // Detect BIOS POST beeps and play the Mac boot sound
 //
