@@ -37,7 +37,9 @@ the opposite side of the module in order to fit the PCB. Please double-check VIN
 and VOUT are wired correctly.
 
 Pin 1 of the 4-pin header J2 must be connected to the "SPK" line of the BIOS speaker,
-pin 4 must be connected to the "+" line. ⚠️ **Pay attention not to accidentally swap the pins!**
+pin 4 must be connected to the "+" line. 
+
+⚠️ **Pay attention not to accidentally swap the pins!**
 
 The Arduino should be pre-flashed with the sketch before inserting it into the circuit.
 
