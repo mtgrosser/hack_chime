@@ -32,6 +32,10 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 
 ## Setup
 
+The connector pins of the AMS1117 voltage regulator module must be re-soldered to
+the opposite side of the module in order to fit the PCB. Please double-check VIN
+and VOUT are wired correctly.
+
 Pin 1 of the 4-pin header J2 must be connected to the "SPK" line of the BIOS speaker,
 pin 4 must be connected to the "+" line. ⚠️ **Pay attention not to accidentally swap the pins!**
 
