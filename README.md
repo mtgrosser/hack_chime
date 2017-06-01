@@ -30,6 +30,20 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 
 ![Hack Chime Device](https://github.com/mtgrosser/hack_chime/raw/master/device.jpg)
 
+## Setup
+
+Pin 1 of the 4-pin header J1 must be connected to the "SPK" line of the BIOS speaker,
+pin 4 must tbe connected to the "+" line. **Do not mix up the pins!**
+
+The Arduino should be pre-flashed with the sketch before inserting it into the circuit.
+
+### Preparing the microSD card for DFPlayer
+
+DFPlayer will sort the sound files in the order they are copied to the card.
+Format the card and copy the files one by one. The order must match the sound/pin indexes
+defined in the sketch, i.e. `chime`, `alert`, `funk`, `boink`. 
+On macOS, make sure no "._" files end up on the card.
+
 ## Software
 
 Work in progress...
