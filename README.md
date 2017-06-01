@@ -33,7 +33,9 @@ Detect BIOS beeps with Arduino and play the Mac boot chime
 ## Setup
 
 Pin 1 of the 4-pin header J1 must be connected to the "SPK" line of the BIOS speaker,
-pin 4 must tbe connected to the "+" line. **Do not mix up the pins!**
+pin 4 must tbe connected to the "+" line.
+
+⚠️ **Do not mix up the pins!** ⚠️
 
 The Arduino should be pre-flashed with the sketch before inserting it into the circuit.
 
@@ -46,7 +48,8 @@ On macOS, make sure no "._" files end up on the card.
 
 ## Software
 
-Work in progress...
+Depending on how much time the mainboard usually takes to complete its power-on self test (POST),
+the variables const POST_WAIT_TIME and POST_TIMEOUT can be tweaked to catch the beeps.
 
 ## License
 
